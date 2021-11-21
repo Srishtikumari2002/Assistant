@@ -4,6 +4,10 @@
 
 Desktop assistant designed in python which performs tasks like opening applications, solving arithmetic problem, answering general queries, playing news, videos etc.
 
+## Demo 📹
+---------------------
+![](https://github.com/Srishtikumari2002/Assistant/blob/main/demo.gif)
+
 ## Features 📝
 -------------------------
 * Beautiful and Simple Interface (Tkinter)
