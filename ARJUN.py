@@ -387,7 +387,7 @@ class Help_Support(Frame):
         back.bind("<Enter>", change)
         back.bind("<Leave>", change_back)  
 
-        contact_details = "For any query mail at :- shubhamtiwaripython2004@gmail.com"
+        contact_details = "For any query mail at :- srishti060btcsai20@igdtuw.ac.in"
         contact = Text(self, bd=0, bg="black", fg="white", width=47, height=38, wrap=WORD, cursor="arrow", font=("Helvetica", 15, "bold"))
         contact.place(x=1, y=90)
         contact.insert("1.0", contact_details)
