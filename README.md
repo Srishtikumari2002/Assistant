@@ -1,6 +1,7 @@
 # Assistant
 ## Arjun | Personal Digital Assistant ✨
-![]()
+![](https://github.com/Srishtikumari2002/Assistant/blob/main/arjun.png)
+
 Desktop assistant designed in python which performs tasks like opening applications, solving arithmetic problem, answering general queries, playing news, videos etc.
 
 ## Features 📝
@@ -17,3 +18,28 @@ Desktop assistant designed in python which performs tasks like opening applicati
 * Arithmetic Problems (try saying what is sin of 90 degree etc.)
 * General Knowledge( try saying who is narendra modi etc.)
 * and a lot more
+
+## Tech Used 💻
+--------------------------
+Build With -
+
+* Python 3.9
+
+Module Used -
+
+All The Module are Latest Version.
+
+* Tknter
+* Webbrowser
+* Pillow
+* Speech_recognition
+* pyttsx3
+* datetime
+* os
+* wolframalpha
+* wikipedia
+
+Software Used -
+
+* VS CODE
+* Wolframalpha
