@@ -51,13 +51,13 @@ AGE_RESPONSES = ["I was created on 20th september 2020"]
 CREATION_INPUTS = ["who made you", "who created you", "who made u",
                     "who created u", "who is your creator", "who is your builder",
                     "who build you", "made", "created", "creator", "built", "god"]
-CREATION_RESPONSES = ["I have been created by Shubham Tiwari", 
-                         "Shubham Tiwari is my creator.", "Shubham Tiwari"]
+CREATION_RESPONSES = ["I have been created by Srishti Kumari", 
+                         "Srishti Kumari is my creator.", "Srishti Kumari"]
 
-CREATOR_INPUTS  = ["who is shubham tiwari", "shubham tiwari", "shubham",
-                     "tell me something about shubham tiwari"]
+CREATOR_INPUTS  = ["who is Srishti Kumari", "Srishti Kumari", "Srishti",
+                     "tell me something about Srishti Kumari"]
 CREATOR_RESPONSES = ["He is a great human being.", "He is  my creator.", 
-                    "Shubham Tiwari is a great mind.", "Because of him I am talking to you."]
+                    "Srishti Kumari is a great mind.", "Because of him I am talking to you."]
 
 ABILITIES_INPUTS = ["what can you do", "what can you do for me", 
                     "how can you help", "how can you help me"]
