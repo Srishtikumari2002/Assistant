@@ -6,7 +6,7 @@ Desktop assistant designed in python which performs tasks like opening applicati
 
 ## Demo 📹
 ---------------------
-![](https://github.com/Srishtikumari2002/Assistant/blob/main/demo.gif)
+![](https://github.com/Srishtikumari2002/Assistant/blob/main/demo%20(2).gif)
 
 ## Features 📝
 -------------------------
