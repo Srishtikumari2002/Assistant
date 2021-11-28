@@ -208,7 +208,7 @@ class TODO:
                 return ans
             
             elif "weather" in user_response:
-                api_key = "1e1679ce30cda8df43c8fc9ae599413d"
+                api_key = "your api key"
                 weather_url = "http://api.openweathermap.org/data/2.5/weather?"
                 data = user_response.split()
                 stop_words = ["tell", "search", "wikipedia", "for", "me", "something", "about", "what", "is", "the", "weather", "in", "what's", "whats", "my", "area", "of"]
@@ -226,7 +226,7 @@ class TODO:
                     return "City Not Found" 
 
             else:
-                app_id = "496XYA-A7JLG95GK5"
+                app_id = "wolframalpha app id"
                 client = wf.Client(app_id)
                 res = client.query(user_response)
                 ans = next(res.results).text
